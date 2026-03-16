@@ -13,7 +13,7 @@ This system helps prevent accidents caused by driver fatigue.
 ## Demo of Advanced Driver Drowsiness Detection
 
 <p align="center">
- <img src="images\demo.png" width="900">
+ <img src="images/demo.png" width="900">
 </p>
 
 ---
@@ -21,7 +21,7 @@ This system helps prevent accidents caused by driver fatigue.
 ## Facial Landmark Detection
 
 <p align="center">
- <img src="images\demo1.png" width="900">
+<img src="images/demo1.png" width="900">
 </p>
 
 ---
